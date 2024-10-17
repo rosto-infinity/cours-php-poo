@@ -1,8 +1,5 @@
 <?php   
 
-$user1 = new User("John", "1234");
-$user2 = new User("Mary", "0000");
-
 class Admin extends User{
   public $admin;
   
